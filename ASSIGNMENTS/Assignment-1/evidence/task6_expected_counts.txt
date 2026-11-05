@@ -1,5 +1,0 @@
-Expected program counts for 10,000-byte input (includes final EOF read):
-buffer 1 bytes: 10001 read() calls
-buffer 512 bytes: 21 read() calls
-buffer 4096 bytes: 4 read() calls
-These are expected counts from the assignment's test data, not a claim that this package was run on your PC.
